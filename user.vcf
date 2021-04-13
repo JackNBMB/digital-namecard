@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:jack@northbrisbanemortgagebrokers.com.au
 TEL;type=WORK;type=VOICE:0434 553 744
 item1.ADR;type=WORK;type=pref:;;Kedron;;;Brisbane;Queensland
 item1.X-ABADR:sg
-item2.URL;type=pref:www.northbrisbanemortgagebrokers.com.au
+item2.URL;type=pref:https://www.northbrisbanemortgagebrokers.com.au/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
